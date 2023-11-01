@@ -1,0 +1,168 @@
+body {
+    background-color:lightsteelblue;
+    margin:0;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+h1 {
+    color: #6aadad;
+    margin-top: 50px auto 0 auto;
+    font-size: 85px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    color: #11999e;
+    font-size: 2.5em;
+    padding-bottom: 30px;
+}
+p{
+    line-height: 1
+}
+.top-container {
+    background-color: lightsteelblue;
+}
+
+.middle-container{
+  background-color: rgb(32, 31, 31);
+}
+.skills-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.Pro-{
+    color: rgb(99, 128, 121);
+    font-size: x-large;
+    font-family: 'Charcoal', cursive;
+    font-weight: normal;
+    line-height: 1;
+}
+.Pro{
+    text-decoration: underline;
+}
+.top-cloud{ position: relative;
+    left: 200px;
+    top: 175px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 395px;
+    bottom: 50px;
+}
+.thomas1{
+    border-radius: 50%;
+    width: 15%;
+    border: 100px;
+    padding-top: 27px;
+}
+.nike{
+    border-radius: 50%;
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+
+.bottom-container{
+    background-color: lightsteelblue;
+}
+p{
+    font-size: large;
+    font-family: cursive;
+    color: rgb(43, 74, 80);
+    padding-bottom: 20px;
+}
+.bottom-cloud2{
+    position: absolute;
+    left: 365px;
+    bottom: 180px;
+}
+.thomas2{
+    border-radius: 60%;
+    width: 30%;
+    float: right;
+    margin-right: 30px;
+    position: relative;
+    bottom: 65px;
+    left: 35px;
+}
+.skills-row2{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+p{
+    color: gray;
+}
+hr{
+    border-color: rgb(206, 215, 226);       
+    border-style:dotted;
+    border-bottom-style: none;
+    border-width: 6px;
+    width: 5%;
+    margin: 100px auto;
+}
+.footer-link{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #6aadad;
+    word-spacing: 10;
+    margin: 30px;
+    padding: 40px;
+}
+
+
+.P{
+    width: 30%;
+    margin: auto;
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.btn {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #52fafa;
+    font-size: 21px;
+    padding: 10px 20px 0px 20px;
+    text-decoration: none;
+    margin: 10px 20px 10px 20px;;
+    margin: 10px 20px 10px 20px;;
+    
+  }
+  
+  .btn:hover {
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+    text-decoration: none;
+  }
+ a{
+    text-decoration: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+ }
+ a:hover{
+    color: #eaf6f6;
+ }
+ .copyright{
+    color: #eaf6f6;
+    padding: 20px 0;
+    font-size: 1rem;
+ }
